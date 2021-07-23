@@ -38,7 +38,7 @@
 
 ## Licensce.
 
-License [MIT]("/LICENSE")
+License [MIT]("https://github.com/JAMAL-MOHAMED-JALDESA-2893/Delani-studio/blob/master/LICENSE")
 
 Copyright (c) **2021 Jamal Hassan.**
 
