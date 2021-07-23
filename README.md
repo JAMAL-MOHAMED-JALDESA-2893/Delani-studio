@@ -8,7 +8,7 @@
 
 **Delani Studio** is a fictional website for a studio(Delani) that show case the services that they offer and they have a portfoli section which shows the projects done by programmers/developers/designers. It also has a contact form which enables users/customers to communicate/send a message to Delani Studio
 
-<img src="./assets/delani">
+<img src="./img/ Delani Studio.jpg">
 
 ## Setup/Installation/Usage.
 
