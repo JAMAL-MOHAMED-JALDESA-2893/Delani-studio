@@ -32,6 +32,8 @@ body{
 
 /* About Us section*/
 
-
+#about-heading{
+  font-weight: 600;
+}
 
 /* End of about Us section*/
