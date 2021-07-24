@@ -73,14 +73,13 @@ body{
 }
 
 .overlay {
-  background-color: rgb(206, 205, 205);
+  background-color: rgb(39, 15, 15);
   opacity: 0.6;
   position: absolute;
-  display: none;
+  display: ;
   top: 0;
   bottom: 0;
-  width: 90%;
-
+  width: 100%;
 }
 
 
