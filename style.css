@@ -1,3 +1,6 @@
+ 
+/* common styles*/
+
  *{
   padding: 0;
   margin: 0;
@@ -8,6 +11,10 @@ body{
   overflow-x: hidden;
 }
 
+/* End of common styles*/
+
+
+/* landing section*/
 .container-fluid{
   background-image: url("./img/backgrounds/h_img.jpg");
   background-position: center;
@@ -16,8 +23,15 @@ body{
   color: white;
 }
 
-
-
 #click-mouse {
   margin-top: 70px;
 };
+
+/*End of landing section */
+
+
+/* About Us section*/
+
+
+
+/* End of about Us section*/
