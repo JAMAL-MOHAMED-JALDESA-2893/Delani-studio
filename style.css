@@ -15,12 +15,13 @@ body{
 
 
 /* landing section*/
-.container-fluid{
+.section-1{
   background-image: url("./img/backgrounds/h_img.jpg");
   background-position: center;
   min-height: 100vh;
   background-size: cover;
   color: white;
+  position: relative;
 }
 
 #click-mouse {
@@ -29,11 +30,25 @@ body{
 
 /*End of landing section */
 
+/* about us */
 
-/* About Us section*/
-
-#about-heading{
-  font-weight: 600;
+#about{
+ height: 30vh;
+ margin-bottom: 30px;
 }
 
-/* End of about Us section*/
+.about h1 {
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+/* End of about us  */
+
+.services {
+  height: 45vh;
+  background-image: url("./img/backgrounds/s_image.jpg");
+}
+
+.services h1{
+  margin-top: 30px;
+}
