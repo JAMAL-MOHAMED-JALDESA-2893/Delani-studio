@@ -1,28 +1,26 @@
-$(document).ready(function()
-
-{
+$(document).ready(() =>{
 
   //  hidding the description paragraphs for the icons
 
-  $("#design").hide();    //hides the description paragraph for design.
+  $("#design-description").hide();    //hides the description paragraph for design.
 
-  $("#development").hide();    //hides the description paragraph for development.
+  $("#development-description").hide();    //hides the description paragraph for development.
 
-  $("#product-mgt").hide();    //hides the description paragraph for product management.
+  $("#product-description").hide();    //hides the description paragraph for product management.
   
 
   // toggle for design icon and description
 
-   $(".design").on('click', () =>  $("#design, .design").toggle());
-   $("#design").on('click', () =>  $(".design, #design").toggle());
+   $(".design-icon").on('click', () =>  $("#design-description, .design-icon").toggle());
+   $("#design-description").on('click', () =>  $(".design-icon, #design-description").toggle());
 
    //toggle for development icon and description.
 
-   $(".development").on('click',() => $("#development, .development").toggle());
-   $("#development").on('click', () => $(".development, #development").toggle());
+   $(".development-icon").on('click',() => $("#development-description, .development-icon").toggle());
+   $("#development-description").on('click', () => $(".development-icon, #development-description").toggle());
 
   // toggle for product management and description.
 
-   $(".product-mgt").on('click',() => $("#product-mgt, .product-mgt").toggle());
-   $("#product-mgt").on('click',() => $(".product-mgt, #product-mgt").toggle());
+   $(".product-icon").on('click',() => $("#product-description, .product-icon").toggle());
+   $("#product-description").on('click',() => $(".product-icon, #product-description").toggle());
 })
