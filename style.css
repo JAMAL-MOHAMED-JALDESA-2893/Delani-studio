@@ -76,10 +76,23 @@ body{
   background-color: rgb(39, 15, 15);
   opacity: 0.6;
   position: absolute;
-  display: ;
+  display:none;
   top: 0;
   bottom: 0;
-  width: 100%;
+  width: 90%;
+}
+
+.hover{
+  width: 80%;
+  height: 80%;
+  border-radius: 9px;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+.hover h1{
+  font-size: 25px;
+  padding-top: 30%;
+  font-style:italic;
 }
 
 
