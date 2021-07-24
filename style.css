@@ -49,6 +49,8 @@ body{
 
 /* End of about us  */
 
+/* services */
+
 .services {
   min-height: 45vh;
   background-image: url("./img/backgrounds/s_image.jpg");
@@ -63,3 +65,10 @@ body{
   font-size: 18px;
 }
 
+/* End of services */
+
+/* What we do */
+
+
+
+/* End of what we do */
