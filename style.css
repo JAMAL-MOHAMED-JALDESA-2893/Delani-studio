@@ -43,7 +43,8 @@ body{
 }
 
 .about p{
-  font-weight: 400;
+  font-weight: 500;
+  font-size: 18px;
 }
 
 /* End of about us  */
@@ -55,5 +56,10 @@ body{
 
 .services h1{
   font-weight: 700;
+}
+
+.services p{
+  font-weight: 500;
+  font-size: 18px;
 }
 
