@@ -101,5 +101,49 @@ body{
 /* contact */
 
 
+#contact{
+  background-image: url("./img/backgrounds/c_image.jpg");
+}
+
+.input{
+  display: inline;
+
+}
+
+#contact input{
+  width:37%;
+  background-color: transparent;
+ border-color: lightslategrey;
+ border-radius: 0px;
+}
+
+#email{
+  margin-left:5%;
+  color: white;
+}
+
+#email::placeholder{
+  color: white;
+}
+
+#name{
+  margin-left: 12%;
+  color :white;
+}
+
+#name::placeholder{
+  color: white;
+}
+
+#contact textarea{
+  background-color: transparent;
+  color: white;
+  width: 75%;
+}
+
+textarea::placeholder{
+  color: white;
+}
+
 
 /* End of contact */
