@@ -113,8 +113,9 @@ body{
 #contact input{
   width:37%;
   background-color: transparent;
- border-color: lightslategrey;
+  border: 1px solid white;
  border-radius: 0px;
+ box-shadow: transparent;
 }
 
 #email{
@@ -139,6 +140,7 @@ body{
   background-color: transparent;
   color: white;
   width: 75%;
+  border: 1px solid white;
 }
 
 textarea::placeholder{
@@ -149,7 +151,8 @@ textarea::placeholder{
   width: 75%;
   height: 35px;
   padding: 8px;
-  border-radius: 6px
+  border-radius: 6px;
+  border: 1px solid white;
 };
 
 

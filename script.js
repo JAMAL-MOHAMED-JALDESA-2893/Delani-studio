@@ -40,5 +40,9 @@ $(document).ready(() =>{
 
   // contact form .
 
-  
+  $("#form").on('submit', () => {return Swal.fire(
+    'Sent!',
+    'Thank You, Message Recieved!',
+    'success'
+  )});
 })
