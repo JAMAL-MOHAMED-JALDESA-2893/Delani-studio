@@ -72,11 +72,11 @@ body{
   position: relative;
 }
 
-.overlay {
+.project1-overlay,.project2-overlay,.project3-overlay,.project4-overlay,.project5-overlay,.project6-overlay,.project7-overlay,.project8-overlay {
   background-color: rgb(39, 15, 15);
   opacity: 0.6;
   position: absolute;
-  display:none;
+  display: none;
   top: 0;
   bottom: 0;
   width: 90%;
