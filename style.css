@@ -145,5 +145,12 @@ textarea::placeholder{
   color: white;
 }
 
+#submit  {
+  width: 75%;
+  height: 35px;
+  padding: 8px;
+  border-radius: 6px
+};
+
 
 /* End of contact */
